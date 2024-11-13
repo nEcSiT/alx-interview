@@ -1,0 +1,1 @@
+This readdme is for N queens that's for bactracking.
